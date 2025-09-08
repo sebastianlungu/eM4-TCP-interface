@@ -1,0 +1,6 @@
+# Wallbox eM4 EVSE Controller Dependencies
+# 
+# pymodbus 3.6.x is the recommended version for compatibility
+# with the eM4 Modbus TCP implementation
+#
+pymodbus>=3.6.0,<4.0.0

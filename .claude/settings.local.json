@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(chmod:*)",
+      "Bash(install.bat)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
