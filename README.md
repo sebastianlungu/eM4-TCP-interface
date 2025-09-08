@@ -2,6 +2,8 @@
 
 Production-ready Python controller for monitoring and managing Wallbox eM4 electric vehicle charging stations over Modbus TCP.
 
+[Manufacturer's Modbus TCP - Interface Description](https://www.ablmobility.de/global/downloads/anleitungen/em4/20230905_Interface_description_ModbusTCP_WallboxeM4_Controller_Extender_EN.pdf?m=1715754856&)
+
 ## Features
 
 - 📊 **Real-time monitoring**: Read charging status, currents, voltages, power, and energy
